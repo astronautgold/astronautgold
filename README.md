@@ -8,7 +8,7 @@
 <ul>
   <li>🌱 <strong>Currently Learning:</strong> Blockchain applications, advanced JavaScript, and full-stack development.</li>
   <li>💻 <strong>Tech Interests:</strong> Frontend development, AI/ML applications, blockchain for transparency, and building tech for social good.</li>
-  <li>🎓 <strong>Education:</strong> B.Tech in Information Technology (3rd Year)</li>
+  <li>🎓 <strong>Education:</strong> B.Tech in Information Technology (4th Year)</li>
   <li>💬 <strong>Pronouns:</strong> She/Her</li>
 </ul>
 
