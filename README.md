@@ -46,7 +46,7 @@
 
 <h2>📫 Let's Connect!</h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/Ramya-Paranthaman">Ramya-Paranthaman</a></li>
+  <li><a href="https://www.linkedin.com/in/Ramya-Paranthaman">Ramya Paranthaman</a></li>
   <li>Email: <a href="mailto:astronautgold192003@gmail.com">astronautgold192003@gmail.com</a></li>
   <li>GitHub: <a href="https://github.com/astronautgold">astronautgold</a></li>
 </ul>
